@@ -2,13 +2,9 @@
 
 Estudiante de **Ingeniería en Ciencia de Datos** (primer semestre), con interés en la **ingeniería de datos** y el desarrollo web. En este perfil documento lo que aprendo y los proyectos que voy construyendo.
 
-## 🔭 En qué estoy trabajando
+## 🛠️ Tecnologías
 
-- 📊 **[Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)**: voy en el módulo 1 (Docker y Terraform).
-
-## 🌱 Estoy aprendiendo
-
-Docker · Terraform · Git y GitHub
+SQL · Python · Git y versionado de código
 
 ## 📫 Contacto
 
